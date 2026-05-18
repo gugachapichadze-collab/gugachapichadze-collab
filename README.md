@@ -8,9 +8,10 @@
 
 ## Currently building
 
-- **AOS — Architecture Operating System.** Vertical SaaS for architecture studios. FastAPI + async SQLAlchemy + Postgres. DMARK Architecture as committed design partner.
+- **[AOS — Architecture Operating System](https://github.com/gugachapichadze-collab/aos-design-docs).** Vertical SaaS for architecture studios. FastAPI + async SQLAlchemy + Postgres. DMARK Architecture as committed design partner. Public design docs; code private.
 - **[guga-consulting.com](https://guga-consulting.com).** Fractional COO practice. Free Ops Health Check (25 questions → radar chart) and OpsOS wizard live.
-- **This portfolio.** Public artifacts of the systems above — pinned repos ship over the next two weeks.
+- **[job-hunt-intelligence-engine](https://github.com/gugachapichadze-collab/job-hunt-intelligence-engine).** Public Python engine — scores ~100 LinkedIn jobs/day, surfaces ~3 APPLY matches/week at €0.001/job. v3.1.15 in production since April 2026.
+- **[automation-cookbook](https://github.com/gugachapichadze-collab/automation-cookbook).** Daily ops automations built on Claude API: morning briefings, Spanish vocab. ~€0.07/month total.
 
 ## Stack
 
