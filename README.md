@@ -23,5 +23,5 @@ Georgian (native) · English (C2) · Russian (C1) · Spanish (B1, developing)
 ## Find me
 
 - [guga-consulting.com](https://guga-consulting.com)
-- LinkedIn: *(replace with your URL)*
+- LinkedIn: www.linkedin.com/in/gugachapichadze
 - gugachapichadze@gmail.com
