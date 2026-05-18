@@ -25,3 +25,4 @@ Georgian (native) · English (C2) · Russian (C1) · Spanish (B1, developing)
 - [guga-consulting.com](https://guga-consulting.com)
 - LinkedIn: www.linkedin.com/in/gugachapichadze
 - gugachapichadze@gmail.com
+- **[job-hunt-intelligence-engine](https://github.com/gugachapichadze-collab/job-hunt-intelligence-engine).** Public Python engine — scores ~100 LinkedIn jobs/day, surfaces ~3 APPLY matches/week at €0.001/job. v3.1.15 in production since April 2026.
